@@ -190,6 +190,24 @@ This project demonstrates:
 
 * Interactive dashboard design
 
+
+#### Motor-Bike-Sales-Revenue-Analysis
+
+
+├── Dataset
+
+
+│   └── motor_bike_sales.csv
+
+
+├── Power Bi Dashboard
+
+
+│   └── MotorBikeSalesDashboard.pbix
+
+
+└── README.md
+
 👨‍💻 Author
 
 Anmol Verma
